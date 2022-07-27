@@ -5,6 +5,7 @@ Rencana Konten
 *ES6
 *FrameWorks
 "Vue
+"react
 -Struktur Data Dasar
 -PHP Framework
 "Laravel
